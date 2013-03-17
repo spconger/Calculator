@@ -1,0 +1,37 @@
+﻿body {
+
+}
+
+.entry {
+    border: 5px solid blue;
+    
+}
+
+td {
+    width:50px;
+    
+}
+
+.buttonwidth {
+    width:40px;
+    padding-left:5px;
+    padding-right:5px;
+    height: 26px;
+}
+
+.calctext {
+    border: 2px solid black;
+    text-align:right;
+    background-color:blanchedalmond;
+}
+
+h1 {
+    background-color:navy;
+    color:white;
+    border:5px solid black;
+}
+
+#main {
+    max-width:1200px;
+}
+
